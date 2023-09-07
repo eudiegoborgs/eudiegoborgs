@@ -1,5 +1,3 @@
-# Oi, eu sou o Diego 👋
-
 <p align="center">
   <a target="_blank" href="https://twitter.com/eudiegoborgs">
     <img src="https://img.shields.io/twitter/follow/eudiegoborgs?color=1DA1F2&logo=twitter&style=for-the-badge&label=twitter"/>
@@ -13,9 +11,13 @@
     <img src="https://img.shields.io/badge/-website-307cc5?style=for-the-badge&logo=google-chrome&logoColor=white&color=B700FF"/>
   </a>
     <a target="_blank" href="https://diegoborgs.com.br/curriculo">
-    <img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"/>
+    <img src="https://img.shields.io/badge/Curriculo?style=for-the-badge&logo=web&logoColor=white&color=000000"/>
   </a>
 </p>
+
+# Oi, eu sou o Diego 👋
+
+
 
 - [Oi, eu sou o Diego 👋](#oi-eu-sou-o-diego-)
   - [Sobre mim 🚀](#sobre-mim-)
