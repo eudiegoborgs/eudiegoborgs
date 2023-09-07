@@ -77,7 +77,7 @@ Atualmente trabalho como Engenheiro de Software na PicPay, faço parte da organi
 
 ## Agenda
 | Evento   |      Data      |  Link |
-|----------|:-------------:|------:|
+|----------|:-------------:|------|
 | Workshop Hyperf (Quartel - BH/MG) |  16 de setembro de 2023 | https://www.sympla.com.br/workshop-hyperf__2105289 |
 | PHP Summit (Locaweb - SP/SP)|    28 e 29 de setembro de 2023   |   https://php.locaweb.com.br/ |
 | PHPeste (Estácio - FOR/CE) | 6 e 7 de outubro de 2023 |    https://phpeste.org/ |
