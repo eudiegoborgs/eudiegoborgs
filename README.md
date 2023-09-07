@@ -8,10 +8,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
   </a>
   <a target="_blank" href="https://diegoborgs.com.br">
-    <img src="https://img.shields.io/badge/-website-307cc5?style=for-the-badge&logo=google-chrome&logoColor=white&color=B700FF"/>
+    <img src="https://img.shields.io/badge/-website-307cc5?style=for-the-badge&logo=google-chrome&logoColor=white&color=000000"/>
   </a>
     <a target="_blank" href="https://diegoborgs.com.br/curriculo">
-    <img src="https://img.shields.io/badge/Curriculo?style=for-the-badge&logo=web&logoColor=white&color=000000"/>
+    <img src="https://img.shields.io/badge/-Curriculo-307cc5?style=for-the-badge&logo=google-chrome&logoColor=white&color=000000"/>
   </a>
 </p>
 
