@@ -17,20 +17,6 @@
 
 # Oi, eu sou o Diego 👋
 
-
-
-- [Oi, eu sou o Diego 👋](#oi-eu-sou-o-diego-)
-  - [Sobre mim 🚀](#sobre-mim-)
-  - [🛠️ Tecnologias e ferramentas](#️-tecnologias-e-ferramentas)
-    - [Back-End](#back-end)
-    - [Front-End](#front-end)
-    - [Testes](#testes)
-    - [DevOps](#devops)
-    - [Databases](#databases)
-    - [AMQP](#amqp)
-    - [AWS](#aws)
-  - [Agenda](#agenda)
-
 ## Sobre mim 🚀
 Me chamo Diego Borges, sou graduando em Sistemas de Informação pela PUC Minas, tenho mais de 12 anos de experiência em desenvolvimento. Apaixonado pelo estudo de música, programação e automação.
 
